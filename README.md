@@ -1,3 +1,3 @@
 # Gran-Tarea
-##Proyecto-Investigación
+## Proyecto-Investigación
 Se comparte la informacion del proyecto de investigacion de tema: MINECRAFT EDUCATION COMO HERRAMIENTA DE ENSEÑANZA PARA MEJORAR EL APRENDIZAJE DE FUNCIONES TRIGONOMÉTRICAS.
